@@ -10,3 +10,5 @@ How it works?
 - Run "node index.js {filename}"
 
 Then you will get the files in downloadedFiles directory in the folder.
+
+https://www.npmjs.com/package/find-urls-and-save-files
