@@ -1,11 +1,12 @@
 {
-  "name": "find-urls-and-download",
+  "name": "find-urls-and-save-files",
   "version": "1.0.0",
   "description": "A node.js code snippet to search and find urls in a text and download them in a folder named downloadedFiles",
   "main": "index.js",
   "scripts": {
     "build": "babel ./src -d ./lib",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
