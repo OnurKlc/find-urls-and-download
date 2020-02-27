@@ -1,6 +1,6 @@
 {
   "name": "find-urls-and-save-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node.js code snippet to search and find urls in a text and download them in a folder named downloadedFiles",
   "main": "index.js",
   "scripts": {
