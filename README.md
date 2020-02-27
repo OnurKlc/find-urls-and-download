@@ -7,6 +7,6 @@ How it works?
 - Go into the folder.
 - Install dependencies.
 - Copy the file that you want to read from into existing folder.
-- Run node index.js {filename}
+- Run "node index.js {filename}"
 
 Then you will get the files in downloadedFiles directory in the folder.
