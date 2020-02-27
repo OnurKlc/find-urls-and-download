@@ -1,0 +1,33 @@
+{
+  "name": "find-urls-and-download",
+  "version": "1.0.0",
+  "description": "A node.js code snippet to search and find urls in a text and download them in a folder named downloadedFiles",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel ./src -d ./lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnurKlc/find-urls-and-download.git"
+  },
+  "keywords": [
+    "download",
+    "url",
+    "find",
+    "regex"
+  ],
+  "author": "Onur Kılıç",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnurKlc/find-urls-and-download/issues"
+  },
+  "homepage": "https://github.com/OnurKlc/find-urls-and-download#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
