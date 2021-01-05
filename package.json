@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/OnurKlc/find-urls-and-download#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
